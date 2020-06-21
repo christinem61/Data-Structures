@@ -4,9 +4,13 @@ In order to test, you must create a .txt file with a list of coefficients follow
 For example,
 
 1 4
+
 2 3
+
 3 2
+
 4 1
+
 5 0
 
 would create the polynomial: x^4 + 2x^3 + 3x^2 + 4x + 5.
