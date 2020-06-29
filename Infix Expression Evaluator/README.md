@@ -1,5 +1,5 @@
 This is a calculator that evaluates complex infix expressions in Java. It uses recursion,
-stacks, and other data structions to compute and print answers. 
+stacks, and other data structures to compute and print answers. 
 
 Here are some examples of expressions the program will evaluate:
 - 3
