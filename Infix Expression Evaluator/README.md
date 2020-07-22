@@ -1,3 +1,5 @@
+# Infix Expression Evaluator
+
 This is a calculator that evaluates complex infix expressions in Java. It uses recursion,
 stacks, and other data structures to compute and print answers. 
 
