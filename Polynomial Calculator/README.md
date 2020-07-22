@@ -1,3 +1,5 @@
+# Polynomial Calculator
+
 A calculator that creates, adds, multiplies polynomials in Java by manipulating linked lists to determine and display results.
 
 In order to test, you must create a .txt file with a list of coefficients followed by the degree of the term.
