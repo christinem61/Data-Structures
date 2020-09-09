@@ -9,7 +9,7 @@ Here are some examples of expressions the program will evaluate:
 - 3-4*5
 - a-(b+A[B[2]])*d+3
 - A[2*(a+b)]
-- (varx + vary*varz[(vara+barv[(a+b)*33)])/55
+- (varx + vary*varz[(vara+varb[(a+b)*33)])/55
 
 Expressions are limited to:
 - integer constants
